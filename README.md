@@ -1,1 +1,2 @@
-*Emphasize* _italisice_
+*Emphasize* _italisice
+**Strong** __strong__
